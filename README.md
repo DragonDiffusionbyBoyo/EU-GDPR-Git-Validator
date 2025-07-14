@@ -160,6 +160,15 @@ Scan Date: 2025-07-13 18:59:00 UTC
 **Article 20 - Right to Data Portability**
 - Git format provides some portability, but with significant limitations
 
+- ⚠️ GitHub CI Status
+
+    Note: GitHub Actions is currently failing due to CI workflow quirks.
+    The tool runs perfectly locally and is actively used.
+    CI will be fixed if and when it becomes necessary.
+    For now, focus is on local execution and real-world feedback.
+
+Please clone, test locally, and submit any issues or GDPR scan results via Issues or Pull Requests.
+
 ## 🤝 Contributing
 
 We welcome contributions! This project helps the entire development community understand and address GDPR compliance challenges in version control systems.
